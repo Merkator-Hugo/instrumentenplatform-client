@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "apexcharts": "^3.25.0",
-    "core-js": "^3.6.4",
+    "core-js": "^3.9.1",
     "graphql-tag": "^2.11.0",
     "vue": "^2.6.11",
     "vue-apexcharts": "^1.6.0",
@@ -30,9 +30,9 @@
     "@vue/eslint-config-airbnb": "^5.0.2",
     "@vue/test-utils": "^1.1.1",
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.20.0",
+    "eslint": "^7.21.0",
     "eslint-plugin-import": "^2.20.2",
-    "eslint-plugin-vue": "^7.6.0",
+    "eslint-plugin-vue": "^7.7.0",
     "tailwindcss": "^1.4.1",
     "vue-cli-plugin-apollo": "~0.22.2",
     "vue-template-compiler": "^2.6.11"
